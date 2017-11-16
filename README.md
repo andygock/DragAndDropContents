@@ -4,6 +4,10 @@ Small lightweight HTML Drag and Drop library (5kB uncompressed).
 
 I wrote this with the aim of drag and dropping a text file into a `<textarea>` field, and filling the textarea with the file contents.
 
+## Demos
+
+[github.io](https://andygock.github.io/DragAndDropContents/) or [JSFiddle](https://jsfiddle.net/andygock/gpkosde1/)
+
 ## Example use
 
 First load the `DragAndDropContents.js` file:
